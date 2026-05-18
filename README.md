@@ -1,6 +1,6 @@
 # 🛢️ Automated Oil Market Report
 
-Automatically fetches daily oil news (from OilPrice.com and CNBC Oil) and technical sentiment (from Investing.com, and Barchart.) using Claude AI, then saves the report as a markdown file in this repo.
+Automatically fetches daily oil news (from OilPrice.com and CNBC Oil) and technical sentiment (from Investing.com, and TradingView.) using Claude AI, then saves the report as a markdown file in this repo.
 
 ---
 
